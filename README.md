@@ -12,6 +12,8 @@ Deployment Steps:
 4. I made the hospital Check-in service within the bot using the SQL Database and Logic Apps(by creting the post and get workflows).
 5. Then i deployed my heathbot using a custom template in the azure app services.
 
+Deployment Url- https://healthcare-bot-2cwwv42ptt3lq.azurewebsites.net
+
 Summary:
 
 The bot uses the Azure SQl Database to store the information of the patient and thus lets them check-in to the hospital on their own without the help of a receptionist. The bot can also provide assistance towards day-to-day heathcare problems. It helps the users to get the basic information about their eligibilty to take vaccine or not , wether they should take any immediate precautionary measure towrds covid-19 or not. It can also help the user to file an insurance claim and also a provider lookup.
