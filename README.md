@@ -2,7 +2,18 @@
 
 Synopsys:
 
+Industry*: Health
+
+Project Title*: Health-Bot
+
+Problem Statement/Opportunity*:
+My project mainly targets the healthcare industries. It eliminates the job of a receptionist by allowing the bot to do the work of a receptionist by itself and it will also help the patient to overcome their day-to-day healthcare problems. There will be a health-bot communicating with the patients to know their problems and giving solutions according to that. Patients can access everything at their fingertips and save time and money. This will eliminate the cost of having an employee as a receptionist and for interacting with the patients for their basic problems which can already be answered by the bot.
+
+Project Description*:
 I have created the bot with the help of Azure SQL Database and Logic Apps called “Hospital Check-in” where the user needs to give his/her inputs like name, age, height, weight and symptoms they are having and the health-bot will automatically create a check-in for the user in the hospital, this eliminates the purpose of having a receptionist. I have created the bot to deal with patient day-to-day healthcare problems and help them in covid-19 assessment. Mainly I am trying to build an interactive bot where the patient can go and interact with the health-bot. My healthbot is an AI-powered software application that simulates human-like conversations with-out actual humans through text. With Azure Bot Framework Composer and Bot Services, I have designed a chatbot that is more than a communication tool. The user can choose from the 4 services that the bot has. On choosing the services like “Covid-19”, “File an insurance claim” and “Provider lookup”, the bot will take inputs from the user and resolve the respective problem. This eliminates the immediate need for a consultant or contacting an employee from the hospitals etc. If the bot is unable to find out the probable disease and cure it will prompt the user to consultant a doctor or book an appointment for the same. Ultimately the user will be able to get an overview of how vulnerable situation he/she is in and take precautionary measures for the meantime.
+
+Primary Azure Technology*: Health Bot, Azure SQL Database, Logic Apps
+
 
 Deployment Steps:
 
